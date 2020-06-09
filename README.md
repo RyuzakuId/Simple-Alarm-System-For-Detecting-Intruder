@@ -3,19 +3,26 @@ Tutorial pembuatan alarm system sederhana menggunakan arduino uno.
 ![hasil](https://github.com/RyuzakuId/Simple-Alarm-System-For-Detecting-Intruder/blob/master/src/hasil.PNG)
 
 ## Alat dan Bahan
-- Breadboard
+
+### Breadboard
 ![breadboard](https://github.com/RyuzakuId/Simple-Alarm-System-For-Detecting-Intruder/blob/master/src/breadboard.png)
-- Arduino Uno
+
+### Arduino Uno
 ![arduino](https://github.com/RyuzakuId/Simple-Alarm-System-For-Detecting-Intruder/blob/master/src/arduino_uno.png)
-- Sensor Ultrasonik (HC-SR04)
+
+### Sensor Ultrasonik (HC-SR04)
 ![sensor](https://github.com/RyuzakuId/Simple-Alarm-System-For-Detecting-Intruder/blob/master/src/sensor_ultrasonic.png)
-- Buzzer
+
+### Buzzer
 ![buzzer](https://github.com/RyuzakuId/Simple-Alarm-System-For-Detecting-Intruder/blob/master/src/buzzer.png)
-- Kabel Jumper
+
+### Kabel Jumper
 ![kabel](https://github.com/RyuzakuId/Simple-Alarm-System-For-Detecting-Intruder/blob/master/src/kabel_jumper.png)
-- LED
+
+### LED
 ![led](https://github.com/RyuzakuId/Simple-Alarm-System-For-Detecting-Intruder/blob/master/src/led.png)
-- Resistor
+
+### Resistor
 ![resistor](https://github.com/RyuzakuId/Simple-Alarm-System-For-Detecting-Intruder/blob/master/src/resistor.png)
 
 ## Perakitan
