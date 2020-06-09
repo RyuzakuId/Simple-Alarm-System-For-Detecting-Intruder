@@ -14,4 +14,4 @@ Tutorial pembuatan alarm system sederhana menggunakan arduino uno.
 Rakit Sesuai dengan desain fritzing dibawah.
 
 ## Upload Kode Program
-Upload kode program ke arduino.
+Upload kode program ke arduino menggunakan Arduino IDE di komputer anda.
