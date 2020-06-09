@@ -30,5 +30,4 @@ Rakit Sesuai dengan desain fritzing dibawah.
 ![desain fritzing](https://github.com/RyuzakuId/Simple-Alarm-System-For-Detecting-Intruder/blob/master/src/fritzing.PNG)
 
 ## Upload Kode Program
-Upload kode program ke arduino menggunakan Arduino IDE di komputer anda.
-[Kode program alarm system](https://github.com/RyuzakuId/Simple-Alarm-System-For-Detecting-Intruder/blob/master/alarm_system_code.ino)
+Upload [kode program](https://github.com/RyuzakuId/Simple-Alarm-System-For-Detecting-Intruder/blob/master/alarm_system_code.ino) ke arduino menggunakan Arduino IDE di komputer anda.
