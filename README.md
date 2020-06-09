@@ -1,5 +1,6 @@
 # Simple Alarm System For Detecting Intruder
 Tutorial pembuatan alarm system sederhana menggunakan arduino uno.
+![hasil](https://github.com/RyuzakuId/Simple-Alarm-System-For-Detecting-Intruder/blob/master/src/hasil.PNG)
 
 ## Alat dan Bahan
 - Breadboard
